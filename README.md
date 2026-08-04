@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/<img width="1774" height="887" alt="ChatGPT Image Aug 5, 2026, 01_47_51 AM" src="https://github.com/user-attachments/assets/df55506f-edc5-45ea-b139-dfbd4a70d666" />
-" width="100%" alt="Banner"/>
 
 # 👋 Hi, I'm Shahwaz Alam
 
